@@ -100,4 +100,4 @@ In the next versions, expect:
 
 ```
 
-You can now copy the content between the triple backticks and paste it into your README file to get a tidy Markdown representation.
+
